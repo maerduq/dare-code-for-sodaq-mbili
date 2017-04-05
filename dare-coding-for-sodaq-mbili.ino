@@ -8,7 +8,6 @@
 /*!
  * Include DaRe sources
  */
-// DARE_USE should be 2 on the first line of DaRe.h
 #include "libraries/DaRe/DaRe.cpp"
 #include "libraries/DaRe/DaReEncode.cpp"
 
