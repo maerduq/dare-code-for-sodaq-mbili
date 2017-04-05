@@ -1,4 +1,5 @@
 # DaRe Coding for Sodaq Mbili
+This is an example implementation of [DaRe Coding for LoRaWAN](https://github.com/maerduq/dare-coding)
 
 ## Requirements
 * This example has been tested with a Sodaq Mbili Rev. 4 in combination with an Embit LoRabee module. A different LoRa module could require some changes in the example code.
